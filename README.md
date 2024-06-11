@@ -1,4 +1,39 @@
-## Hi there 👋
+## Hi there 👋!
+
+
+I'm a Front-End Developer under education at [Noroff Vocational School](https://www.noroff.no/), Oslo, Norway.
+
+### 🔭 What I'm Working On
+I am currently focused on mastering Front-End Development, enhancing my skills in:
+- HTML5
+- CSS3
+- JavaScript
+- Figma
+
+### 📚 I'm Currently Learning
+- JavaScript
+- Responsive Web Design with CSS
+- User Interface Design using Figma
+
+### 💬 Ask Me About
+Feel free to ask me about web development, any of my projects, or collaboration opportunities.
+
+### 📬 How to Reach Me
+- **Portfolio website**: [Work in progress](https://portfoliopatrickroethe.netlify.app/)
+- **LinkedIn**: (Empty)
+
+### 🚀 Projects
+
+- **Project Exam**: Creating a blog page for a tech company. [View project](https://github.com/PatrickRoethe/Examproject)
+- **Agency**: Make a photo-studio page. [View project](https://github.com/kanotten/Agency1-frame)
+- **Science Center**: Science museum website for kids. [View project](https://github.com/kanotten/science-center-CA)
+
+More projects will be added as I progress in my front-end adventure.
+
+---
+
+Thank you for visiting my GitHub profile!
+
 
 <!--
 **PatrickRoethe/PatrickRoethe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
