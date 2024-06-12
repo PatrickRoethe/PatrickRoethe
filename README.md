@@ -9,6 +9,7 @@ I am currently focused on mastering Front-End Development, enhancing my skills i
 - CSS3
 - JavaScript
 - Figma
+Will add more to the list this summer!
 
 ### 📚 I'm Currently Learning
 - JavaScript
