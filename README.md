@@ -21,7 +21,7 @@ Feel free to ask me about web development, any of my projects, or collaboration 
 
 ### 📬 How to Reach Me
 - **Portfolio website**: [Work in progress](https://portfoliopatrickroethe.netlify.app/)
-- **LinkedIn**: (Empty)
+- **LinkedIn**: 
 
 ### 🚀 Projects
 
