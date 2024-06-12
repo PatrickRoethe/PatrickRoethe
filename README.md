@@ -28,7 +28,7 @@ Feel free to ask me about web development, any of my projects, or collaboration 
 - **Agency**: Make a photo-studio page. [View project](https://github.com/kanotten/Agency1-frame)
 - **Science Center**: Science museum website for kids. [View project](https://github.com/kanotten/science-center-CA)
 
-More projects will be added as I progress in my front-end adventure.
+More projects will be added and refined as I progress in my front-end adventure.
 
 ---
 
